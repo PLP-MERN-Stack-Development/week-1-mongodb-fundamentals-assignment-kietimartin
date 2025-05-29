@@ -40,6 +40,25 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
 
+## Running the scripts
+Create a database `plp_bookstore` and `books` collection.
+Then simply clone the repository to your local machine
+
+```GIT BASH
+git clone <paste the repository link here>
+```
+
+Navigate to the cloned repository folder and open the terminal.
+Then run: 
+
+```
+mongosh mongodb://localhost:27017/mydb --file queries.js
+```
+
+This will automatically run the mongodb queries.
+
+
+
 ## Resources
 
 - [MongoDB Documentation](https://docs.mongodb.com/)

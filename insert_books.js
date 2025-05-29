@@ -131,6 +131,98 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
+  },
+  // Martin Kieti
+  // Added 10 books
+  {
+  title: 'Dune',
+  author: 'Frank Herbert',
+  genre: 'Science Fiction',
+  published_year: 1965,
+  price: 15.99,
+  in_stock: true,
+  pages: 412,
+  publisher: 'Chilton Books'
+  },
+  {
+  title: 'Fahrenheit 451',
+  author: 'Ray Bradbury',
+  genre: 'Dystopian',
+  published_year: 1953,
+  price: 9.50,
+  in_stock: true,
+  pages: 158,
+  publisher: 'Ballantine Books'
+  },
+  {
+  title: 'The Picture of Dorian Gray',
+  author: 'Oscar Wilde',
+  genre: 'Gothic Fiction',
+  published_year: 1890,
+  price: 8.25,
+  in_stock: true,
+  pages: 254,
+  publisher: 'Lippincott\'s Monthly Magazine'
+  },
+  {
+  title: 'Crime and Punishment',
+  author: 'Fyodor Dostoevsky',
+  genre: 'Philosophical Fiction',
+  published_year: 1866,
+  price: 13.99,
+  in_stock: true,
+  pages: 551,
+  publisher: 'The Russian Messenger'
+  },
+  {
+  title: 'One Hundred Years of Solitude',
+  author: 'Gabriel García Márquez',
+  genre: 'Magical Realism',
+  published_year: 1967,
+  price: 14.25,
+  in_stock: false,
+  pages: 417,
+  publisher: 'Editorial Sudamericana'
+  },
+  {
+  title: 'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe',
+  author: 'C.S. Lewis',
+  genre: 'Fantasy',
+  published_year: 1950,
+  price: 11.00,
+  in_stock: true,
+  pages: 206,
+  publisher: 'Geoffrey Bles'
+  },
+  {
+  title: 'Catch-22',
+  author: 'Joseph Heller',
+  genre: 'Satirical Fiction',
+  published_year: 1961,
+  price: 10.75,
+  in_stock: true,
+  pages: 453,
+  publisher: 'Simon & Schuster'
+  },
+  {
+  title: 'Gone with the Wind',
+  author: 'Margaret Mitchell',
+  genre: 'Historical Fiction',
+  published_year: 1936,
+  price: 16.50,
+  in_stock: false,
+  pages: 1037,
+  publisher: 'Macmillan Publishers'
+  },
+  {
+    title: 'Foundation',
+    author: 'Isaac Asimov',
+    genre: 'Science Fiction',
+    published_year: 1951,
+    price: 13.00,
+    in_stock: true,
+    pages: 255,
+    publisher: 'Gnome Press'
   }
 ];
 
