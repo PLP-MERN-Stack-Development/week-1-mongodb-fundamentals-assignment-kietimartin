@@ -52,7 +52,7 @@ Navigate to the cloned repository folder and open the terminal.
 Then run: 
 
 ```
-mongosh mongodb://localhost:27017/mydb --file queries.js
+mongosh mongodb://localhost:27017/plp_bookstore --file queries.js
 ```
 
 This will automatically run the mongodb queries.
