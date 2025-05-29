@@ -57,7 +57,7 @@ mongosh mongodb://localhost:27017/mydb --file queries.js
 
 This will automatically run the mongodb queries.
 
-[screenshot](image.png)
+![screenshot](image.png)
 
 ## Resources
 
